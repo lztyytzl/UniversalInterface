@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UniversalInterface</string>
+    <string name="fragment1">f1</string>
+    <string name="fragment2">f2</string>
+    <string name="fragment3">f3</string>
+</resources>
